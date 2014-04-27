@@ -15,6 +15,8 @@ public class myApp {
 	public static void main(String[] args) {
 		System.out.println("Hello world");
 		System.out.println("Added git");
+		System.out.println("Fall back git");
+		System.out.println("Next git24");
 	}
 
 }
